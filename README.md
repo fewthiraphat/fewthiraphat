@@ -40,7 +40,6 @@ Welcome to my Digital World This place like my home.
 		LearnDesigning()
 		CreateSocialMedia()
 		Graduate()
-		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
